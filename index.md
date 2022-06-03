@@ -9,8 +9,8 @@
 
 ### Intelligence 
 
-* Design and implement your intelligence program
+* Design your cyber threat and/or all-source intelligence program (Junior, Intermediate, and Advanced performance levels)
+* Manage program implementation 
 * Design talent recruitment and professional development plan
-* Deliver intermediate and advanced analytic training
 
 Reach out now to get started <michael@fulcrumsage.com>
